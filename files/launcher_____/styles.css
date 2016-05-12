@@ -560,9 +560,6 @@
   top:36px;
   width:159px;
   height:30px;
-  font-family:'STHeitiSC-Light', 'Heiti SC Light', 'Heiti SC';
-  font-weight:200;
-  font-style:normal;
   font-size:16px;
   color:#0000FF;
   text-align:center;
@@ -577,7 +574,7 @@
 #u43 {
   position:absolute;
   left:2px;
-  top:7px;
+  top:6px;
   width:155px;
   word-wrap:break-word;
 }
@@ -738,9 +735,6 @@
   top:66px;
   width:159px;
   height:30px;
-  font-family:'STHeitiSC-Light', 'Heiti SC Light', 'Heiti SC';
-  font-weight:200;
-  font-style:normal;
   font-size:16px;
   color:#0000FF;
   text-align:center;
@@ -755,7 +749,7 @@
 #u57 {
   position:absolute;
   left:2px;
-  top:7px;
+  top:6px;
   width:155px;
   word-wrap:break-word;
 }
@@ -916,9 +910,6 @@
   top:96px;
   width:159px;
   height:36px;
-  font-family:'STHeitiSC-Light', 'Heiti SC Light', 'Heiti SC';
-  font-weight:200;
-  font-style:normal;
   font-size:16px;
   color:#0000FF;
   text-align:center;
@@ -933,7 +924,7 @@
 #u71 {
   position:absolute;
   left:2px;
-  top:10px;
+  top:9px;
   width:155px;
   word-wrap:break-word;
 }
@@ -1094,9 +1085,6 @@
   top:132px;
   width:159px;
   height:30px;
-  font-family:'STHeitiSC-Light', 'Heiti SC Light', 'Heiti SC';
-  font-weight:200;
-  font-style:normal;
   font-size:16px;
   color:#0000FF;
   text-align:center;
@@ -1111,7 +1099,7 @@
 #u85 {
   position:absolute;
   left:2px;
-  top:7px;
+  top:6px;
   width:155px;
   word-wrap:break-word;
 }
@@ -1275,9 +1263,6 @@
   top:162px;
   width:159px;
   height:36px;
-  font-family:'STHeitiSC-Light', 'Heiti SC Light', 'Heiti SC';
-  font-weight:200;
-  font-style:normal;
   font-size:16px;
   color:#0000FF;
   text-align:center;
@@ -1292,7 +1277,7 @@
 #u99 {
   position:absolute;
   left:2px;
-  top:10px;
+  top:9px;
   width:155px;
   word-wrap:break-word;
 }
@@ -1456,9 +1441,6 @@
   top:198px;
   width:159px;
   height:30px;
-  font-family:'STHeitiSC-Light', 'Heiti SC Light', 'Heiti SC';
-  font-weight:200;
-  font-style:normal;
   font-size:16px;
   color:#0000FF;
   text-align:center;
@@ -1473,7 +1455,7 @@
 #u113 {
   position:absolute;
   left:2px;
-  top:7px;
+  top:6px;
   width:155px;
   word-wrap:break-word;
 }
@@ -7418,7 +7400,7 @@
 #u584 {
   position:absolute;
   left:783px;
-  top:196px;
+  top:194px;
   width:157px;
   height:186px;
   overflow:hidden;
